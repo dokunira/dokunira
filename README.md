@@ -1,4 +1,5 @@
-4th-year Electrical Engineering student, Tokyo University of Science / Incoming Graduate Student in Electrical Engineering and Information Systems, University of Tokyo
+4th-year Electrical Engineering student, Tokyo University of Science
+Incoming Graduate Student in Electrical Engineering and Information Systems, University of Tokyo
 
 <!--
 **dokunira/dokunira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
